@@ -38,7 +38,7 @@ O parâmetro `BIT_TIME` define o tempo total de transmissão de cada bit. Ao div
 
 O projeto foi realizado utilizando o [Thinkercad](https://www.tinkercad.com/things/2gPy4efrg6V-ingenious-uusam-amberis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=enAtCWXpJXuu6AI1-THC8e2NrBuhf1xMcKR6wFkTVNc). A seguir, é possível acompanhar a explicação em conjunto com a demonstração de seu funcionamento:
 
-[video](data/video.mp4)
+[video](https://youtu.be/gbuNiQIqSCw)
 
 
 ---
