@@ -11,7 +11,9 @@ def corrigir_hamming(bits):
     erro_posicao = c1 * 1 + c2 * 2 + c3 * 4
     
     if erro_posicao:
-        bits[erro_posicao - 1] ^= 1  # Corrige o bit errado
+        bits_list = list(bits)
+        bits_list[erro_posicao - 1] = "1" if bits_list[erro_posicao] == "0" else "1"
+        bits = "".join(bits_list) # Corrige o bit errado
     
     return f"{bits[2]}{bits[4]}{bits[5]}{bits[6]}"
 
