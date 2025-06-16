@@ -70,3 +70,9 @@ yarn start
 - `npm run ios` - Inicia no iOS
 - `npm run web` - Inicia na web
 - `npm run server` - Inicia o JSON Server 
+
+
+## Demonstração e explicação
+
+[vídeo demonstrativo](https://drive.google.com/file/d/1O_hCqh9KUwL_tF-2MqxDawV3gK7Wwvg1/view?usp=drive_link)
+[Vídeo xplicativo](https://drive.google.com/file/d/1XwLifs5ZQ4FuTQ3VIfCi5DsqkVEI5vua/view?usp=drive_link)
