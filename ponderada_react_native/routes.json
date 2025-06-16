@@ -1,0 +1,4 @@
+{
+  "/products": "/products?_page=:page&_limit=:limit",
+  "/products/:id": "/products/:id"
+} 
