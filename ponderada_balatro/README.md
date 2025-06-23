@@ -217,8 +217,9 @@ npx expo start --web      # Web
 
 ## Demonstração
 
-(Demonstração do aap)[https://drive.google.com/file/d/1R67kBPfcopOU0aosBqpnjWCCdZH8XnXC/view?usp=sharing]
-(Explicação do projeto)[https://drive.google.com/file/d/1fO93VHQGejUXR9ke7cjjc0XHoMvm-vVV/view?usp=sharing]
+[Demonstração do app](https://drive.google.com/file/d/1R67kBPfcopOU0aosBqpnjWCCdZH8XnXC/view?usp=sharing)
+
+[Explicação do projeto](https://drive.google.com/file/d/1fO93VHQGejUXR9ke7cjjc0XHoMvm-vVV/view?usp=sharing)
 
 
 *Projeto realizado com o auxílio da Cursor AI*
