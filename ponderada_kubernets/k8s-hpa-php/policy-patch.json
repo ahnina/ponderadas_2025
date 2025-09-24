@@ -1,0 +1,11 @@
+{
+  "spec": {
+    "template": {
+      "spec": {
+        "containers": [
+          { "name": "php-apache", "imagePullPolicy": "Never" }
+        ]
+      }
+    }
+  }
+} 
