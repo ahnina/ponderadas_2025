@@ -238,11 +238,9 @@ while true; do wget -q -O- http://php-apache-service; done
 * [Minikube](https://minikube.sigs.k8s.io/docs/)
 * [Metrics Server](https://github.com/kubernetes-sigs/metrics-server)
 
-* Atividade realizanda com auxílio do Cursor
-
-```
-
 ---
+**Atividade realizada com auxílio do Cursor**
 
-Quer que eu monte também uma **explicação visual (diagrama)** mostrando como os elementos (usuário → service → deployment → pods → HPA) se conectam? Isso deixaria o README ainda mais didático.
-```
+## [Vídeo Demonstrativo](https://drive.google.com/file/d/12vUrpLSDrsQL159maY7FTg4hra0jvdBA/view?usp=drive_link)
+
+
